@@ -1,0 +1,10 @@
+.garbageCan {
+    border: none;
+    background-color: #ffffff00;
+    display: inline;
+    float: right;
+}
+
+h5 {
+    display: inline;
+}
